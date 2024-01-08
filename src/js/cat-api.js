@@ -3,7 +3,7 @@
 const LIST_URL = 'https://api.thecatapi.com/v1/breeds/';
 const BASE_URL = 'https://api.thecatapi.com/v1/images/search';
 const API_KEY =
-  'live_mKiv7hRKzdNDTibRgNQFYq36GalsTTZaPuEdSRPUO447TaWFbtFTO1YFYZyDQGTz';
+  'live_I5FpNZQDL4q7DeAS9449DfZd6i9OoAP7qNjLaxzN0t0zarCUpnIqARC9ELIn8uYP';
 
 // Коллекция пород
 
