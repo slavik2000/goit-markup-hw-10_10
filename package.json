@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://slavik2000.github.io/goit-markup-hw-10_10",
+  "homepage": "https://OlenaIa.github.io/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-markup-hw-10_10/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slavik2000/parcel-project-template.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
@@ -19,8 +19,8 @@
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.7",
-    "slim-select": "^2.8.1"
+    "notiflix": "^3.2.6",
+    "slim-select": "^2.5.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
